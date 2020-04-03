@@ -1,0 +1,41 @@
+{   ">":[
+    "greater than",
+    "more than",
+    "bigger than",
+    "higher than"
+ 
+],
+   "<":[
+    "smaller than",
+    "less than",
+    "lower than"
+ 
+],   "MAX":[
+    "the maximum",
+    "the highest",
+    "the most expensive",
+    "the biggest",
+    "the most",
+    "the greatest"
+ 
+],   "MIN":[
+    "the minimum",
+    "the lowest",
+    "the least expensive",
+    "the tiniest",
+    "the least"
+ 
+],   "COUNT":[
+    "the number of",
+    "how many",
+    "the least",
+    "the greatest"
+ 
+],   "BETWEEN":[
+    "between",
+    "bet"
+ 
+]
+
+
+}

@@ -1,0 +1,21 @@
+actions: [action_connect_db, action_search_condition]
+entities: [AVG, BETWEEN, COUNT, INF, MAX, MIN, SUP, column, columnNames, dbdialect,
+  dbdriver, dbhost, dbname, dbpassword, dbusername, elements, keyword, operations,
+  ord, table, tableNames, val]
+intents: [connect_to_database, search_condition]
+slots:
+  column: {type: list}
+  columnNames: {type: list}
+  dbdialect: {type: unfeaturized}
+  dbdriver: {type: unfeaturized}
+  dbhost: {type: unfeaturized}
+  dbname: {type: unfeaturized}
+  dbpassword: {type: unfeaturized}
+  dbusername: {type: unfeaturized}
+  elements: {type: list}
+  keyword: {type: list}
+  operations: {type: list}
+  ord: {type: list}
+  table: {type: list}
+  tableNames: {type: list}
+  val: {type: list}
